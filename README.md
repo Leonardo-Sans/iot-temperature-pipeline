@@ -125,7 +125,7 @@ Pipeline executando
 Banco de dados PostgreSQL
 
 
-![Sql views](images/Sql_views.png)
+![Sql views](images/sql_views.png)
 
 
 Dashboard Streamlit
